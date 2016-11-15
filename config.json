@@ -3,11 +3,11 @@
     "port": 3000
   },
   "postgres": {
-    "host": "60.205.59.57",
+    "host": "x",
     "port": 5432,
     "username": "dev",
-    "password": "suiyueyule@devpassword123",
-    "dbName": "node_music_weapon"
+    "password": "x",
+    "dbName": "x"
   },
   "redis": {
     "host": "localhost",
